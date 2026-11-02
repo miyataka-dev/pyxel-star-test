@@ -11,9 +11,11 @@ game in a web browser via GitHub.
   https://miyataka-dev.github.io/pyxel-star-test/
   (Pages must be enabled once in Settings > Pages: branch `main`, folder `/ (root)`)
 
-Click the game screen once after loading, then move the paddle with
-the left/right arrow keys (or the virtual gamepad) and catch the
-falling stars.
+Click the game screen once after loading, then move the paddle and
+catch the falling stars. Controls: left/right arrow keys, gamepad
+D-pad or left stick (press any gamepad button once so the browser
+recognizes it), or the virtual gamepad on touch devices. Catching a
+star plays a short jingle; missing one plays a low buzz.
 
 ## Files
 
